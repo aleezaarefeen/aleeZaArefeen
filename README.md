@@ -10,7 +10,6 @@
  ---
   >## Current Projects 📝
   >><ul> 🔹 Personal Website <ul> 🔸 Status: under progress. </ul> <ul> 🔸 Tools: HTML, CSS, and Javascript. </ul> </ul>
-  >><ul> 🔹 Marginal Rate of Substitution (MRS) Calculator <ul> 🔸 Status: under progress. </ul> <ul> 🔸 Tools: Python. </ul> </ul>
  ---
   >## Contact ✉
   >><ul> 🔹 Email: aleeza.arefeen@mail.utoronto.ca </ul>

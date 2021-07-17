@@ -14,6 +14,7 @@
   >## Contact ✉
   >><ul> 🔹 Email: aleeza.arefeen@mail.utoronto.ca </ul>
   >><ul> 🔹 LinkedIn: https://www.linkedin.com/in/aleeza-arefeen/ </ul>
+  >><ul> 🔹 Website: https://aleezaarefeen.github.io/
  ---
   >## Fun Facts 💬
   >><ul> 🔹 I like to learn, from new skills to brushing up on old ones, on Udemy or LinkedIn Learning. </ul>

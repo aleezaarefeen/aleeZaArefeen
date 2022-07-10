@@ -5,8 +5,8 @@
 ### My name is Aleeza Arefeen (she/her), a third year Computer Science & Economics student at UofT. 👩‍💻📈
  ---
   >## Languages Known ⚙
-  >><ul> 🔹 Proficient: Python, Java, Bash, HTML, CSS. </ul> 
-  >><ul> 🔹 Familiar: Javascript, PHP, C, MIPS Assembly, STATA. </ul>
+  >><ul> 🔹 Proficient: Python, Java, HTML, CSS. </ul> 
+  >><ul> 🔹 Familiar: Javascript, PHP, C, Bash, MIPS Assembly, STATA. </ul>
  ---
   >## Current Projects 📝
   >><ul> 🔹 Learning React.js  <ul> 🔸 Status: under progress. </ul></ul> <ul> 🔹 Learning Tableau  <ul> 🔸 Status: under progress. </ul></ul>

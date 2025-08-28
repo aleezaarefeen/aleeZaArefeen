@@ -2,7 +2,7 @@
  <h1> Hello! Welcome to my GitHub! 👋💻 </h1>
 </div>
 
-### My name is Aleeza Arefeen (she/her), a third year Computer Science & Economics student at UofT. 👩‍💻📈
+### My name is Aleeza Arefeen (she/her) 👩‍💻📈
  ---
   >## Languages Known ⚙
   >><ul> 🔹 Proficient: Python, Java </ul> 

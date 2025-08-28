@@ -8,6 +8,9 @@
   >><ul> 🔹 Proficient: Python, Java </ul> 
   >><ul> 🔹 Familiar: Javascript, PHP, C, HTML, CSS, Bash, MIPS Assembly, STATA. </ul>
  ---
+  >## Tools/Frameworks ⚙
+  >><ul> 🔹 Docker, Kubernetes, Helm, JUnit, CI/CD, Postman, Agile Methodologies </ul> 
+ ---
   >## Contact ✉
   >><ul> 🔹 Email: aleeza.arefeen@alumni.utoronto.ca </ul>
   >><ul> 🔹 LinkedIn: https://www.linkedin.com/in/aleeza-arefeen/ </ul>

@@ -8,7 +8,7 @@
   >><ul> 🔹 Proficient: Python, Java </ul> 
   >><ul> 🔹 Familiar: Javascript, PHP, C, HTML, CSS, Bash, MIPS Assembly, STATA. </ul>
  ---
-  >## Tools/Frameworks ⚙
+  >## Tools and Frameworks ⚙
   >><ul> 🔹 Docker, Kubernetes, Helm, JUnit, CI/CD, Postman, Agile Methodologies </ul> 
  ---
   >## Contact ✉

@@ -9,7 +9,7 @@
   >><ul> 🔹 Familiar: Javascript, PHP, C, HTML, CSS, Bash, MIPS Assembly, STATA. </ul>
  ---
   >## Contact ✉
-  >><ul> 🔹 Email: aleeza.arefeen@mail.utoronto.ca </ul>
+  >><ul> 🔹 Email: aleeza.arefeen@alumni.utoronto.ca </ul>
   >><ul> 🔹 LinkedIn: https://www.linkedin.com/in/aleeza-arefeen/ </ul>
   >><ul> 🔹 Website: https://aleezaarefeen.github.io/
  ---
